@@ -1,2 +1,2 @@
-# Syntax-In-Lua
-We try to make a ping-ing service with lua! Very hard, but we got new users each time, but now we got to code the Virtual Machine!
+# Music Player (Ping)
+We are making a service that can ping devices across the globe, and play a sound without all the complicated commands.
